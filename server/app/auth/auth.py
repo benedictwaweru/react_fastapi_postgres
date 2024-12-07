@@ -1,0 +1,1 @@
+# Password hashing, salting, authentication, JWT token generation and encryption

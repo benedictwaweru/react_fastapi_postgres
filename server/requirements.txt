@@ -1,0 +1,18 @@
+# Framework
+fastapi
+uvicorn
+
+# Environment variables
+python-dotenv
+
+# PostgreSQL
+psycopg2-binary
+
+# GraphQL
+graphene
+
+# Caching
+redis
+
+# Error logging
+logging

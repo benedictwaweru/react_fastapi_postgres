@@ -1,0 +1,7 @@
+# Virtual environment
+myenv
+
+# Global variables
+.env
+.env.development
+.env.production

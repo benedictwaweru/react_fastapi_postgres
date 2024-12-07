@@ -1,0 +1,1 @@
+// This file contains the configuration of Apollo Client to connect your React app with the GraphQL server.
